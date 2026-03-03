@@ -1,0 +1,9 @@
+# Codebase Onboarding AI - Landing Page
+# Deploy: ./deploy.sh vercel
+
+*.log
+node_modules/
+.vercel/
+.netlify/
+.env
+.DS_Store
